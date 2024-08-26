@@ -1,0 +1,27 @@
+/* App.css */
+
+/* Ensure the body has no margin */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Center content inside the main element */
+  main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #f0f0f0; /* Optional: Change background color as needed */
+  }
+  
+  /* Optional: Center content in the page */
+  .container {
+    max-width: 1200px; /* Adjust based on your design */
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
