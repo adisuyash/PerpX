@@ -1,6 +1,6 @@
 # PerpX
 
-PerpX is a decentralized perpetual exchange built on the EDU Chain. It empowers users to create synthetic assets that track the price of real-world assets without requiring actual ownership. This innovative platform allows users to gain exposure to various assets, enabling efficient portfolio diversification and investment management without the complexities of holding physical assets.
+PerpX is a decentralized perpetual exchange built on the EDU Chain. It empowers users to create synthetic assets that track the price of real-world assets without requiring actual ownership.
 
 **Live Deployment on Vercel:** [Link to the deployed application]
 

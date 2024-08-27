@@ -1,8 +1,8 @@
 import "../index.css";
 import Navbar from "../components/Navbar";
-import BuyAndSell from "../components/TradeSections/BuyandSell.jsx";
-import Orderbook from "../components/TradeSections/Orderbook.jsx";
-import TradingView from "../components/TradeSections/TradingView.jsx";
+import BuyAndSell from "../components/TradeSection/BuyandSell.jsx";
+import Orderbook from "../components/TradeSection/Orderbook.jsx";
+import TradeView from "../components/TradeSection/TradeView.jsx";
 
 function Trade() {
   return (
@@ -10,7 +10,7 @@ function Trade() {
       <Navbar />
       <section className="trade-section">
         <div className={`flex`}>
-          <TradingView />
+          <TradeView />
           <Orderbook />
           <BuyAndSell />
         </div>
